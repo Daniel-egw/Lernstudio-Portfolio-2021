@@ -1,0 +1,39 @@
+body
+{
+    background-color: #333;
+}
+
+h1
+{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: calibri;
+    text-decoration: underline;
+    animation-name: hover-out;
+    animation-duration: 250ms;
+    animation-fill-mode: forwards;
+    margin: 0;
+    margin-top: 50px;
+}
+
+h1:hover
+{
+    animation-name: hover-in;
+    animation-duration: 250ms;
+    animation-fill-mode: forwards;
+}
+
+
+
+@keyframes hover-in
+{
+    from {color:white;}
+    to {color: rgb(92, 214, 255);}
+}
+
+@keyframes hover-out
+{
+    from {color:rgb(92, 214, 255);}
+    to {color: white;}
+}
