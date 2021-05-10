@@ -81,7 +81,6 @@ p
 #end
 {
     margin: 10%;
-    margin-bottom: 50px;
 }
 
 #end img
@@ -91,4 +90,13 @@ p
     cursor: pointer;
     margin-left: 15px;
     margin-bottom: -15px;
+}
+
+#end-info
+{
+    float: right;
+    font-style: italic;
+    color: gray;
+    margin-bottom: 50px;
+    margin-top: -10px;
 }
