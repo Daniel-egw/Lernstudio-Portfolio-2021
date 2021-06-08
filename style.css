@@ -1,6 +1,6 @@
 body
 {
-    background-color: #333;
+    background-color: #222;
     max-width: 1000px;
     margin: auto;
     font-family: calibri;
@@ -36,7 +36,7 @@ p
     margin-top: 100px;
     padding: 10px;
     padding-bottom: 50px;
-    background-color: #555;
+    background-color: #444;
     border-radius: 8px;
     text-align: center;
 }
