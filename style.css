@@ -8,6 +8,11 @@ body
     padding-right: 16px;
 }
 
+*
+{
+    color: #00bcff;   
+}
+
 h1
 {
     font-size: 50px;
