@@ -1,6 +1,6 @@
 body
 {
-    background-color: #222;
+    background-color: #151515;
     max-width: 1000px;
     margin: auto;
     font-family: calibri;
@@ -12,7 +12,7 @@ h1
 {
     font-size: 50px;
     text-align: center;
-    color: #48d1ff;
+    color: #00BEFF;
     text-decoration: underline;
     margin-top: 50px;
 }
@@ -21,7 +21,7 @@ h2
 {
     font-size: 30px;
     text-align: left;
-    color: #48d1ff;
+    color: #00BEFF;
 }
 
 p
@@ -36,7 +36,7 @@ p
     margin-top: 100px;
     padding: 10px;
     padding-bottom: 50px;
-    background-color: #333;
+    background-color: #151515;
     border-radius: 8px;
     text-align: center;
 }
@@ -50,12 +50,12 @@ p
 
 #overview a:hover
 {
-    color: #48d1ff;
+    color: #00BEFF;
 }
 
 #start
 {
-    background-color: #333;
+    background-color: #151515;
     border-radius: 8px;
     padding: 10px;
     margin-top: 100px;
@@ -63,7 +63,7 @@ p
 
 #portfolio
 {
-    background-color: #333;
+    background-color: #151515;
     border-radius: 8px;
     padding: 10px;
     margin-top: 100px; 
@@ -71,13 +71,13 @@ p
 
 #sources
 {
-    background-color: #333;
+    background-color: #151515;
     border-radius: 8px;
     padding: 10px;
     padding-bottom: 50px;
     margin-top: 100px;
     margin-bottom: 100px;
-    color: #fff;
+    color: white;
 }
 
 #end
@@ -101,14 +101,4 @@ p
     color: gray;
     margin-bottom: 50px;
     margin-top: -10px;
-}
-
-*
-{
-    color: #00BEFF;
-}
-
-*:hover
-{
-    color: #00BEFF;
 }
